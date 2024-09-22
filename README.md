@@ -14,7 +14,7 @@
 
 ### 혹은 저를 알고싶다면?
   
-- 💼 [Resume](https://light-swim-4ce.notion.site/Maeng-suhyeon-5bbddd5e397140bc88f299a1df6fba4a)
+- 💼 [Resume](https://pepper-yak-068.notion.site/f0a2e0e856c449d1a7197d48c46a6fad)
 - 🦜 [Velog](https://velog.io/@msh/posts)
 <!--
 - 💬 [Contact](mailto:job.maengsh@gmail.com)
