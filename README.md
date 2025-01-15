@@ -1,12 +1,13 @@
-### 안녕하세요 👋
+### <div align="center">Hi there👋 새로운 도전을 즐기는 맹수현입니다 👩‍💻</div>  
 
-### 제 이름은 맹수현입니다.
+<br/>
 
-백엔드 개발자로 시작해서 현재는 프론트엔드에 집중하고 사용자 경험을 최우선으로 생각하는 개발자입니다. 
+🌱 백엔드 개발자로 시작하여 프론트엔드 개발자로 성장 중 입니다. 
 
-깔끔한 코드와 직관적인 인터페이스로 더 나은 사용자 경험을 추구합니다.
+⚒️ 사용자 중심의 직관적인 웹 서비스를 만듭니다.
 
-최신 기술 트렌드를 익히는 것을 즐기며 창의적인 문제 해결을 통해 웹의 가능성을 확장하고 있습니다.
+🚀 클린 코드와 최신 기술로 더 나은 사용자 경험을 만드는게 목표입니다.  
+  
 
 ### 제 사이트를 방문해보세요!
 
@@ -25,11 +26,8 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Azure-2560E0?style=for-the-badge&logo=Azure&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Azure&logoColor=white">
 
 
-
-<!--
-#### Hi there 👋 Frontend-Engineer 입니다.
--->
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msuhyeon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <!-- 
