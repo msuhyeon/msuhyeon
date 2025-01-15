@@ -1,6 +1,13 @@
-### <div align="center">Hi there👋 새로운 도전을 즐기는 맹수현입니다 👩‍💻</div>  
+### <div align="center">Hi there👋 새로운 도전을 즐기는 맹수현입니다 👩‍💻 </div>  
 
-<br/>
+
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fmsuhyeon&count_bg=%23A8A5A6&title_bg=%23F29A2F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
+
 
 🌱 백엔드 개발자로 시작하여 프론트엔드 개발자로 성장 중 입니다. 
 
