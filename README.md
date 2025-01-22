@@ -5,17 +5,20 @@
 
 
 
-### <div align="center">새로운 도전을 즐기는 맹수현입니다 👩‍💻 <div align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fmsuhyeon&count_bg=%23F26839&title_bg=%2371706E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div> </div>  
+### <div align="center">새로운 도전을 즐기는 맹수현입니다 👩‍💻  </div>  
+
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fmsuhyeon&count_bg=%23F26839&title_bg=%2371706E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
 
+🌱 백엔드 개발자로 시작해 프론트엔드 개발자로 성장하고 있습니다.
 
+⚒️ 직관적이고 사용자 중심적인 웹 서비스를 만듭니다.
 
-
-🌱 백엔드 개발자로 시작하여 프론트엔드 개발자로 성장 중 입니다. 
-
-⚒️ 사용자 중심의 직관적인 웹 서비스를 만듭니다.
-
-🚀 클린 코드와 최신 기술로 더 나은 사용자 경험을 만드는게 목표입니다.  
+🚀 가독성 높은 코드로 효율적인 협업과 안정적인 개발을 지향합니다.
   
 <br/>
 
