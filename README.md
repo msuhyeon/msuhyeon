@@ -1,4 +1,11 @@
-### <div align="center">Hi there👋 새로운 도전을 즐기는 맹수현입니다 👩‍💻 </div>  
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20abroad!&fontAlignY=48&color=gradient"/>
+</p>
+
+
+
+### <div align="center">새로운 도전을 즐기는 맹수현입니다 👩‍💻</div>  
 
 
 <div align="right">
