@@ -1,5 +1,6 @@
 
 <p align='center'>
+<!--     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20aboard!&fontAlignY=60&color=gradient&customColorList=1,1,1,2,2,3,3&fontColor=000022"/> -->
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20aboard!&fontAlignY=40&color=gradient&customColorList=1,1,1,2,2,3,3"/>
 </p>
 
