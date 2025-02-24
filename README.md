@@ -25,11 +25,11 @@
 
 ### 제 사이트를 방문해보세요!
 
-- 🌍 [hello-sh-world](https://hello-sh-world.vercel.app/)
+- 🌍 [hello-sh-world](https://next-sh-world.vercel.app)
 
 ### 혹은 저를 알고싶다면?
   
-- 💼 [Resume](https://pepper-yak-068.notion.site/f0a2e0e856c449d1a7197d48c46a6fad)
+- 💼 [Resume](https://www.notion.so/165abd807c8180c5a84fd2af8f89bde4?pvs=4)
 - 🦜 [Velog](https://velog.io/@msh/posts)
 <!--
 - 💬 [Contact](mailto:job.maengsh@gmail.com)
