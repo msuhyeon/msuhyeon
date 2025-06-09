@@ -1,7 +1,8 @@
 
 <p align='center'>
 <!--     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20aboard!&fontAlignY=60&color=gradient&customColorList=1,1,1,2,2,3,3&fontColor=000022"/> -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20aboard!&fontAlignY=40&color=gradient&customColorList=1,1,1,2,2,3,3"/>
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20aboard!&fontAlignY=40&color=gradient&customColorList=1,1,1,2,2,3,3"/> -->
+    <img src="https://private-user-images.githubusercontent.com/23253395/452847893-04361b2f-8903-4b16-81aa-2b89e249092e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MzcxOTcsIm5iZiI6MTc0OTQzNjg5NywicGF0aCI6Ii8yMzI1MzM5NS80NTI4NDc4OTMtMDQzNjFiMmYtODkwMy00YjE2LTgxYWEtMmI4OWUyNDkwOTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDAyNDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMWE2MWJmODYzZjRhMDVlZWYyZjUwY2I5ZTc3OTU3ZTc1NGM2MjgxNjYzYWE0YTdlNTI2NDIxOWEyYThhOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QOsnMTGNqdSDWn7Hx4sO3Z2Id78PEGF2wI1fLHJUCwQ" />
 </p>
 
 
