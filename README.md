@@ -2,24 +2,22 @@
 <p align='center'>
 <!--     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20aboard!&fontAlignY=60&color=gradient&customColorList=1,1,1,2,2,3,3&fontColor=000022"/> -->
 <!--     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20aboard!&fontAlignY=40&color=gradient&customColorList=1,1,1,2,2,3,3"/> -->
-<!--     <img src="https://private-user-images.githubusercontent.com/23253395/452847893-04361b2f-8903-4b16-81aa-2b89e249092e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MzcxOTcsIm5iZiI6MTc0OTQzNjg5NywicGF0aCI6Ii8yMzI1MzM5NS80NTI4NDc4OTMtMDQzNjFiMmYtODkwMy00YjE2LTgxYWEtMmI4OWUyNDkwOTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDAyNDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMWE2MWJmODYzZjRhMDVlZWYyZjUwY2I5ZTc3OTU3ZTc1NGM2MjgxNjYzYWE0YTdlNTI2NDIxOWEyYThhOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QOsnMTGNqdSDWn7Hx4sO3Z2Id78PEGF2wI1fLHJUCwQ" />
+<img src="https://github.com/user-attachments/assets/bb01a5ea-3fb0-474a-bf79-78a789f11f3f" width="400px" height="400px" />
 </p>
- -->
 
 
 ### <div align="center">새로운 도전을 즐기는 맹수현입니다 👩‍💻  </div>  
 
+<!--
 <div align="right">
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fmsuhyeon&count_bg=%23F26839&title_bg=%2371706E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 </div>
+-->
 
-⚒️ 직관적이고 사용자 중심적인 웹 서비스를 만듭니다.
-🚀 가독성 높은 코드로 효율적인 협업을 지향합니다.
-  
-<br/>
-
+### ⚒️ About me
+- 💡 **문제 해결**을 즐기는 프론트엔드 개발자입니다.
+- 🎯 **사용자 중심 사고**로 직관적인 웹 서비스를 구현하려고 합니다.
+- 📈 **코드 품질 향상**과 **효율적인 협업**에 집중합니다.
 - 🌍 [hello-sh-world](https://next-sh-world.vercel.app)  
 - 💼 [Resume](https://pepper-yak-068.notion.site/Frontend-Developer-228abd807c818093a336e8f031352ad6?source=copy_link)
 - 🦜 [Velog](https://velog.io/@msh/posts)
