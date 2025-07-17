@@ -30,7 +30,7 @@
 
 ### 혹은 저를 알고싶다면?
   
-- 💼 [Resume](https://www.notion.so/165abd807c8180c5a84fd2af8f89bde4?pvs=4)
+- 💼 [Resume](https://pepper-yak-068.notion.site/Frontend-Developer-228abd807c818093a336e8f031352ad6?source=copy_link)
 - 🦜 [Velog](https://velog.io/@msh/posts)
 <!--
 - 💬 [Contact](mailto:job.maengsh@gmail.com)
