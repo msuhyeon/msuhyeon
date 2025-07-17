@@ -2,9 +2,9 @@
 <p align='center'>
 <!--     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20aboard!&fontAlignY=60&color=gradient&customColorList=1,1,1,2,2,3,3&fontColor=000022"/> -->
 <!--     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20aboard!&fontAlignY=40&color=gradient&customColorList=1,1,1,2,2,3,3"/> -->
-    <img src="https://private-user-images.githubusercontent.com/23253395/452847893-04361b2f-8903-4b16-81aa-2b89e249092e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MzcxOTcsIm5iZiI6MTc0OTQzNjg5NywicGF0aCI6Ii8yMzI1MzM5NS80NTI4NDc4OTMtMDQzNjFiMmYtODkwMy00YjE2LTgxYWEtMmI4OWUyNDkwOTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDAyNDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMWE2MWJmODYzZjRhMDVlZWYyZjUwY2I5ZTc3OTU3ZTc1NGM2MjgxNjYzYWE0YTdlNTI2NDIxOWEyYThhOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QOsnMTGNqdSDWn7Hx4sO3Z2Id78PEGF2wI1fLHJUCwQ" />
+<!--     <img src="https://private-user-images.githubusercontent.com/23253395/452847893-04361b2f-8903-4b16-81aa-2b89e249092e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0MzcxOTcsIm5iZiI6MTc0OTQzNjg5NywicGF0aCI6Ii8yMzI1MzM5NS80NTI4NDc4OTMtMDQzNjFiMmYtODkwMy00YjE2LTgxYWEtMmI4OWUyNDkwOTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDAyNDEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMWE2MWJmODYzZjRhMDVlZWYyZjUwY2I5ZTc3OTU3ZTc1NGM2MjgxNjYzYWE0YTdlNTI2NDIxOWEyYThhOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QOsnMTGNqdSDWn7Hx4sO3Z2Id78PEGF2wI1fLHJUCwQ" />
 </p>
-
+ -->
 
 
 ### <div align="center">새로운 도전을 즐기는 맹수현입니다 👩‍💻  </div>  
@@ -15,26 +15,14 @@
   
 </div>
 
-
-🌱 백엔드 개발자로 시작해 프론트엔드 개발자로 성장하고 있습니다.
-
 ⚒️ 직관적이고 사용자 중심적인 웹 서비스를 만듭니다.
-
-🚀 가독성 높은 코드로 효율적인 협업과 안정적인 개발을 지향합니다.
+🚀 가독성 높은 코드로 효율적인 협업을 지향합니다.
   
 <br/>
 
-### 제 사이트를 방문해보세요!
-
-- 🌍 [hello-sh-world](https://next-sh-world.vercel.app)
-
-### 혹은 저를 알고싶다면?
-  
+- 🌍 [hello-sh-world](https://next-sh-world.vercel.app)  
 - 💼 [Resume](https://pepper-yak-068.notion.site/Frontend-Developer-228abd807c818093a336e8f031352ad6?source=copy_link)
 - 🦜 [Velog](https://velog.io/@msh/posts)
-<!--
-- 💬 [Contact](mailto:job.maengsh@gmail.com)
--->
 
 <br />
 
